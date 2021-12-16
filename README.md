@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bennjamint
+- 👋 Hi, I’m Benjamin. everyone calls me Ben though
 - 👀 I’m interested in getting out of high skuul
 - 🌱 I’m currently learning how to pass my classes
 - 📫 discord: aeroware#0597
