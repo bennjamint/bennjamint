@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Benjamin. everyone calls me Ben though
-- 👀 I’m interested in getting out of high skuul
-- 🌱 I’m currently learning how to pass my classes
+- 👋 everyone calls me ben. but when they're disappointed in me, they call me bennnnnnnn with a lot of "n"s
 - 📫 discord: aeroware#0597
+- life is hard
 
 <!---
 bennjamint/bennjamint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
