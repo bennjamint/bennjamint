@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">Everyone calls me "Ben," but when they're disappointed, they call me "Beeeennnnnn." It's really a coin toss</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bennjamint" alt="bennjamint" /></a> </p>
-
 - 🌱 I’m currently learning **Rust (the language, not the game)**
 
 - 📫 Discord: **aeroware#0597**
