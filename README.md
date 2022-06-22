@@ -7,10 +7,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 - C
+
 - C++
+
 - Python
+
 - Mac OS X
+
 - Linux
+
 - Git
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennjamint)](https://github.com/bennjamint/github-readme-stats)
